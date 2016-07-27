@@ -1,5 +1,5 @@
-/BaiDuWeatherApp/bin/*
-/BaiDuWeatherApp/obj/*
-/BaiDuWeatherApp/UWPBook.csproj.user
-/BaiDuWeatherApp.suo
+/SteelcnWebAPI/bin/*
+/SteelcnWebAPI/obj/*
+/SteelcnWebAPI/UWPBook.csproj.user
+/SteelcnWebAPI.suo
 /.vs/*
