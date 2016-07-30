@@ -1,5 +1,5 @@
 /SteelcnWebAPI/bin/*
 /SteelcnWebAPI/obj/*
 /SteelcnWebAPI/UWPBook.csproj.user
-/SteelcnWebAPI.suo
+/*.suo
 /.vs/*
